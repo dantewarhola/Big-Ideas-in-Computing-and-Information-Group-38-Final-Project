@@ -1,0 +1,421 @@
+average_daily_car_traffic,neighborhood
+23,Central Northside
+58,East Liberty
+63,Spring Hill-City View
+77,Bloomfield
+79,Highland Park
+79,Bloomfield
+109,Marshall-Shadeland
+115,South Side Flats
+126,Lincoln Place
+131,Windgap
+155,Highland Park
+157,Perry South
+175,Squirrel Hill South
+177,Perry North
+195,Lincoln-Lemington-Belmar
+222,Manchester
+223,Squirrel Hill South
+240,Carrick
+263,Elliott
+271,Bloomfield
+277,Brookline
+305,Point Breeze
+317,Highland Park
+317,Highland Park
+317,East Liberty
+334,Lower Lawrenceville
+338,Bloomfield
+338,Elliott
+346,Highland Park
+377,Bloomfield
+382,Central Oakland
+384,Manchester
+393,Highland Park
+396,Hazelwood
+403,Upper Hill
+410,Highland Park
+416,Shadyside
+419,Fineview
+421,Highland Park
+434,Carrick
+439,Friendship
+447,Carrick
+450,Manchester
+450,Polish Hill
+462,Morningside
+463,Squirrel Hill South
+477,Allegheny West
+483,East Liberty
+493,Brookline
+525,Perry North
+527,Knoxville
+541,Squirrel Hill North
+550,Manchester
+560,Manchester
+567,Brookline
+571,Squirrel Hill South
+573,Central Lawrenceville
+577,Greenfield
+579,Brookline
+608,Manchester
+613,Shadyside
+623,Shadyside
+630,Highland Park
+654,Larimer
+666,New Homestead
+693,Perry North
+709,Squirrel Hill South
+719,Squirrel Hill South
+728,Larimer
+763,Beechview
+765,Highland Park
+766,Shadyside
+768,Polish Hill
+777,Overbrook
+781,Squirrel Hill North
+793,Perry South
+799,Squirrel Hill South
+809,Central Northside
+816,Marshall-Shadeland
+867,Bloomfield
+868,Carrick
+871,South Side Slopes
+877,Central Northside
+900,Central Lawrenceville
+910,Bloomfield
+927,Upper Hill
+927,Squirrel Hill North
+929,Point Breeze
+936,Central Lawrenceville
+937,Summer Hill
+945,Marshall-Shadeland
+976,Greenfield
+995,Highland Park
+1036,Squirrel Hill South
+1043,Marshall-Shadeland
+1046,Central Northside
+1049,Polish Hill
+1061,Marshall-Shadeland
+1080,Highland Park
+1105,Manchester
+1107,Point Breeze
+1120,Bloomfield
+1163,East Liberty
+1183,Squirrel Hill South
+1218,Larimer
+1226,Spring Garden
+1231,Morningside
+1265,Point Breeze
+1270,Bloomfield
+1316,Squirrel Hill South
+1328,Perry North
+1352,Sheraden
+1363,Bluff
+1368,Manchester
+1390,Squirrel Hill North
+1410,Perry North
+1446,Beechview
+1455,Bluff
+1468,Carrick
+1468,Brookline
+1470,Squirrel Hill South
+1530,Upper Hill
+1577,Beltzhoover
+1625,Brookline
+1670,Homewood North
+1671,Point Breeze
+1713,Bloomfield
+1786,Central Lawrenceville
+1802,Morningside
+1817,South Side Slopes
+1924,East Allegheny
+2046,Beechview
+2065,South Side Slopes
+2150,Stanton Heights
+2170,Morningside
+2171,Brighton Heights
+2183,Hazelwood
+2224,Arlington
+2238,Mount Washington
+2253,Homewood South
+2253,Homewood South
+2265,Larimer
+2305,Central Business District
+2320,Morningside
+2347,Arlington
+2386,Allegheny Center
+2421,Homewood South
+2436,St. Clair
+2450,Squirrel Hill South
+2465,East Hills
+2475,Morningside
+2523,Spring Hill-City View
+2547,Bluff
+2571,Chartiers City
+2585,West Oakland
+2651,Point Breeze North
+2651,Homewood South
+2679,Brighton Heights
+2697,Brighton Heights
+2718,Perry North
+2737,Squirrel Hill South
+2741,Squirrel Hill South
+2770,Perry North
+2807,Larimer
+2931,Windgap
+3015,Polish Hill
+3091,Shadyside
+3116,South Side Slopes
+3117,Marshall-Shadeland
+3138,Lower Lawrenceville
+3150,Squirrel Hill North
+3190,Central Northside
+3239,Squirrel Hill North
+3302,Perry North
+3304,Sheraden
+3427,Elliott
+3454,Central Lawrenceville
+3580,North Oakland
+3621,Mount Washington
+3702,Squirrel Hill South
+3738,Shadyside
+3776,Central Oakland
+3819,Homewood South
+3819,Homewood South
+3824,California-Kirkbride
+3827,Larimer
+3834,Shadyside
+3860,Mount Washington
+3876,Sheraden
+3885,Morningside
+3891,Squirrel Hill South
+3913,Carrick
+4015,Mount Washington
+4016,Stanton Heights
+4016,Stanton Heights
+4042,Squirrel Hill South
+4044,South Side Slopes
+4120,Shadyside
+4182,Perry South
+4184,
+4254,East Liberty
+4278,Squirrel Hill South
+4301,Mount Washington
+4354,Shadyside
+4448,Friendship
+4548,Highland Park
+4550,North Oakland
+4732,East Liberty
+4821,Squirrel Hill South
+4921,Mount Washington
+4949,Polish Hill
+5015,Squirrel Hill South
+5151,Larimer
+5218,Shadyside
+5259,California-Kirkbride
+5262,Squirrel Hill South
+5327,Highland Park
+5357,Homewood South
+5357,Homewood North
+5422,Squirrel Hill South
+5490,Squirrel Hill South
+5592,Squirrel Hill South
+5605,Greenfield
+5649,Squirrel Hill South
+5663,Polish Hill
+5787,East Liberty
+5800,Westwood
+5804,Larimer
+5831,Duquesne Heights
+5843,California-Kirkbride
+5850,Central Lawrenceville
+5859,Shadyside
+5921,Strip District
+6090,Stanton Heights
+6191,Perry North
+6291,South Side Slopes
+6417,Carrick
+6443,Strip District
+6446,Homewood South
+6446,Homewood South
+6513,Point Breeze
+6641,Manchester
+6747,Larimer
+6793,Shadyside
+6943,Perry South
+6984,Bloomfield
+6984,Bloomfield
+7111,Bloomfield
+7117,Point Breeze
+7119,Knoxville
+7148,Central Oakland
+7277,Point Breeze North
+7277,Homewood South
+7572,Shadyside
+7579,North Oakland
+7619,Mount Washington
+7621,Squirrel Hill North
+7686,Mount Washington
+7688,Highland Park
+7700,East Liberty
+7802,Squirrel Hill North
+7903,Brookline
+8025,Brookline
+8112,North Oakland
+8243,South Side Slopes
+8407,East Liberty
+8429,Marshall-Shadeland
+8498,Brookline
+8512,Larimer
+8911,East Liberty
+9022,Shadyside
+9075,Mount Washington
+9405,Manchester
+9435,East Liberty
+9546,Squirrel Hill South
+9600,Westwood
+9709,Brookline
+10001,Squirrel Hill North
+10113,Shadyside
+10350,North Shore
+11500,Crafton Heights
+12335,Point Breeze
+13788,East Hills
+15000,Bloomfield
+16711,Strip District
+16729,Regent Square
+,Homewood North
+,Spring Hill-City View
+,Bloomfield
+,East Hills
+,Lincoln-Lemington-Belmar
+,Squirrel Hill North
+,East Hills
+,North Shore
+,Bloomfield
+,Mount Washington
+,Strip District
+,Mount Washington
+,Troy Hill
+,Bluff
+,Bluff
+,Bluff
+,Homewood North
+,Carrick
+,Central Business District
+,Central Oakland
+,Shadyside
+,East Hills
+,East Hills
+,Overbrook
+,Lincoln-Lemington-Belmar
+,Brookline
+,Perry North
+,Sheraden
+,Carrick
+,Strip District
+,Bluff
+,Elliott
+,North Shore
+,South Oakland
+,South Oakland
+,Mount Washington
+,California-Kirkbride
+,South Side Slopes
+,Central Lawrenceville
+,Greenfield
+,South Side Flats
+,Strip District
+,Perry South
+,Strip District
+,Bloomfield
+,Arlington
+,Shadyside
+,Perry South
+,South Shore
+,Squirrel Hill North
+,Bloomfield
+,Bloomfield
+,South Side Slopes
+,South Shore
+,Central Oakland
+,Bloomfield
+,South Side Flats
+,West Oakland
+,Shadyside
+,Brookline
+,East Liberty
+,Upper Lawrenceville
+,East Liberty
+,East Liberty
+,St. Clair
+,Central Lawrenceville
+,Greenfield
+,North Oakland
+,South Side Slopes
+,Mount Washington
+,Carrick
+,Hazelwood
+,Point Breeze
+,Point Breeze
+,Point Breeze
+,Strip District
+,Bloomfield
+,Central Oakland
+,Strip District
+,South Oakland
+,Larimer
+,North Oakland
+,Lincoln-Lemington-Belmar
+,Greenfield
+,Chateau
+,Middle Hill
+,Central Northside
+,Greenfield
+,Banksville
+,Central Oakland
+,North Oakland
+,Point Breeze
+,South Side Slopes
+,Beechview
+,Perry North
+,Swisshelm Park
+,Hazelwood
+,Mount Washington
+,Strip District
+,Elliott
+,North Oakland
+,Central Oakland
+,Hazelwood
+,Beltzhoover
+,Oakwood
+,Windgap
+,Morningside
+,East Liberty
+,Bluff
+,South Side Flats
+,East Liberty
+,
+,Mount Washington
+,Brighton Heights
+,Westwood
+,Perry North
+,Perry North
+,Perry North
+,Squirrel Hill South
+,Mount Washington
+,Lower Lawrenceville
+,Strip District
+,South Oakland
+,Homewood South
+,Homewood South
+,Summer Hill
+,Squirrel Hill North
+,Central Northside
+,Westwood
+,Highland Park
+,Upper Hill
+,Crawford-Roberts
+,Squirrel Hill South
+,East Hills

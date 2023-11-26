@@ -14,12 +14,12 @@ Dante Warhola - dlw110@pitt.edu
 
 Nathan Barton - nfb25@pitt.edu
 
-Roger Wang - [Member 3 Email]
+Roger Weng - row97@pitt.edu
 
 
 **Datasets Used**
 
-Parks: https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
+City of Pittsburgh Parks: https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
 
 Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 

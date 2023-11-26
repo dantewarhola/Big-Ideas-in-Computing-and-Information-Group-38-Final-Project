@@ -14,7 +14,7 @@ Dante Warhola - dlw110@pitt.edu
 
 Nathan Barton - nfb25@pitt.edu
 
-Roger Wang - [Member 3 Email]
+Roger Weng - row97@pitt.edu
 
 
 **Datasets Used**
@@ -23,7 +23,7 @@ Parks: https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81b
 
 Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 
-[Dataset 3 Name]: [Link to Dataset 3]
+City of Pittsburgh Park: https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d/view/3dae5fa4-b30f-467c-84bc-f42e670b2fce
 
 
 best place to own a dog

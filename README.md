@@ -6,7 +6,7 @@ Welcome to our Data-Driven Neighborhood Evaluation Project! This repository docu
 
 **Team:**
 
-Team Name: [Your Team Name]
+Team Name: Team 38
 
 Team Members:
 
@@ -25,13 +25,3 @@ Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsbu
 
 Smart Trash Containers: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
 
-
-
-best place to own a dog
-
-traffic - (lowest car count)
-parks - most parks per city
-air quality - lowest quality #
-
-
-group 38

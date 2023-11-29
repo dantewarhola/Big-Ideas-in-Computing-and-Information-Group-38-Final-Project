@@ -23,7 +23,7 @@ City of Pittsburgh Parks: https://data.wprdc.org/dataset/parks/resource/fa329e3d
 
 Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 
-City of Pittsburgh Park: https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d/view/3dae5fa4-b30f-467c-84bc-f42e670b2fce
+Smart Trash Containers: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
 
 
 

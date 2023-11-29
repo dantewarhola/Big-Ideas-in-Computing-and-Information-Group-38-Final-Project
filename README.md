@@ -23,7 +23,7 @@ City of Pittsburgh Parks: https://data.wprdc.org/dataset/parks/resource/fa329e3d
 
 Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
 
-[Dataset 3 Name]: [Link to Dataset 3]
+Smart Trash Containers: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
 
 
 best place to own a dog
